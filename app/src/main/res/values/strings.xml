@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Help</string>
+    <string name="start">GOT IT</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+
+    <string name="slide_1_title">Best Restaurents!</string>
+    <string name="slide_1_desc">The easiest way to see the reviews of restaurents!</string>
+
+    <string name="slide_2_title">Entertainment</string>
+    <string name="slide_2_desc">See reviews,ratings,popularity and votes of any movie easily!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">Great Hotel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    //movie
+    <string name="name_movie">Movie Title</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="plot">Plot Synopsis</string>
+    <string name="rating">User Rating</string>
+    <string name="release">Release Date</string>
+    <string name="pref_sort_order_label">Sort Order</string>
+    <string name="pref_sort_order_key">sortOrder</string>
+    <string name="pref_most_popular">Most Popular</string>
+    <string name="pref_highest_rated">Highest Rated</string>
+    <string name="trailer">Trailer</string>
+    <string name="favorite" translatable="false">Favorite Movies</string>
+    <string name="share">Share</string>
+    <string name="review">Review</string>
+    <string name="pref_sortBy_title">Sort By:</string>
+    <string name="pref_summary">Choose an order to sort.</string>
+    <string name="pref_sortBy_key" translatable="false">sort</string>
+
+
+
+</resources>
